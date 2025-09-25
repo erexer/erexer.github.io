@@ -19,15 +19,14 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Em's Site
-email: 13180883+erexer@users.noreply.github.com
 description: >- # this means to ignore newlines until "baseurl:"
   Em Rexer's Personal Website
-baseurl: "/erexer/" # the subpath of your site, e.g. /blog
-url: "https://erexer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  erexer
+baseurl: "/erexer.github.io/" # the subpath of your site, e.g. /blog
+url: https://erexer.github.io # the base hostname & protocol for your site, e.g. http://example.com
+domain: erexer.github.io
+github_username: erexer
 
 # Build settings
-#remote_theme: Hyde
 remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
