@@ -28,6 +28,7 @@ github_username:  erexer
 
 # Build settings
 remote_theme: Hyde
+#remote_theme: "jekyll/minima@1e8a445"
 plugins:
   - jekyll-feed
 
