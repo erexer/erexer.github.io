@@ -61,12 +61,9 @@ plugins:
 ##########################
 ## more settings
 
-#plugins:
-#  - jekyll-redirect-from
-#
-#whitelist:
-#  - jekyll-redirect-from
-#
+whitelist:
+  - jekyll-redirect-from
+
 markdown: kramdown
 
 compress_html:
