@@ -30,7 +30,7 @@ github_username: erexer
 #remote_theme: "jekyll/minima@1e8a445"
 #remote_theme: tajacks/lightspeed
 #theme: jekyll-bear-theme
-remote_theme: knhash/jekyll-bear-theme
+remote_theme: knhash/jekyllBear
 
 plugins:
   - jekyll-feed
