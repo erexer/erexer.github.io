@@ -13,7 +13,6 @@ gem "minima", "~> 2.5"
 
 # For lightspeed https://github.com/tajacks/lightspeed theme
 gem "jekyll"
-gem "jekyll-feed"
 gem "jekyll-seo-tag"
 gem "jekyll-paginate-v2"
 
