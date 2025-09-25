@@ -29,7 +29,7 @@ github_username: erexer
 # Build settings
 #remote_theme: "jekyll/minima@1e8a445"
 #remote_theme: tajacks/lightspeed
-theme: jekyll-bear-theme
+remote_theme: jekyll-bear-theme
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
