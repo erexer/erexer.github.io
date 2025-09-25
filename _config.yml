@@ -21,7 +21,7 @@
 title: Em's Site
 description: >- # this means to ignore newlines until "baseurl:"
   Em Rexer's Personal Website
-baseurl: "/erexer.github.io/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: https://erexer.github.io # the base hostname & protocol for your site, e.g. http://example.com
 domain: erexer.github.io
 github_username: erexer
