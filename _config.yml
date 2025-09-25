@@ -60,22 +60,22 @@ plugins:
 ##########################
 ## more settings
 
-plugins:
-  - jekyll-redirect-from
-
-whitelist:
-  - jekyll-redirect-from
-
-markdown: kramdown
-
-compress_html:
-  clippings: all
-  comments: [""]
-  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
-  profile: false
-  blanklines: false
-  ignore:
-    envs: []
+#plugins:
+#  - jekyll-redirect-from
+#
+#whitelist:
+#  - jekyll-redirect-from
+#
+#markdown: kramdown
+#
+#compress_html:
+#  clippings: all
+#  comments: [""]
+#  endings: [html, head, body, li, dt, dd, rt, rp, optgroup, option, colgroup, caption, thead, tbody, tfoot, tr, td, th]
+#  profile: false
+#  blanklines: false
+#  ignore:
+#    envs: []
 
 # sass:
 #   sass_dir: css
@@ -105,12 +105,10 @@ exclude:
 exclude: [vendor]
 
 Blog: /blog
-Life: /life
 
 # Add general links to site pages here
 links:
   # Resume: /assets/resume.pdf
-
 
 # Add links for more focus here
 special_links:
