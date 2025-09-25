@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Em's Site
+title: Em Rexer
 description: >- # this means to ignore newlines until "baseurl:"
   Em Rexer's Personal Website
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -27,9 +27,12 @@ domain: erexer.github.io
 github_username: erexer
 
 # Build settings
-remote_theme: "jekyll/minima@1e8a445"
+#remote_theme: "jekyll/minima@1e8a445"
+remote_theme: tajacks/lightspeed
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
