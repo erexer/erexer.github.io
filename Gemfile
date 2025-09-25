@@ -12,10 +12,7 @@ source "https://rubygems.org"
 gem "minima", "~> 2.5"
 
 # For lightspeed https://github.com/tajacks/lightspeed theme
-gem "jekyll"
-gem "jekyll-seo-tag"
-gem "jekyll-paginate-v2"
-gem "faraday-retry"
+gem "jekyll-bear-theme"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
