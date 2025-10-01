@@ -5,14 +5,5 @@ date:   2025-10-01 16:17:00 -0700
 tags: [gear]
 ---
 
-# Sunglasses for a flat face
-
 I am half asian. Love that for me; diversity hire incoming. Finding sunglasses is HELL. They either slide/fall, hit my actual eyeballs, fog up instantly, or give me a raging headache reminiscent of trying to find sunglasses. 
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
