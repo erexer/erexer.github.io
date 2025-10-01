@@ -62,22 +62,45 @@
 }
 
 /* Dark Mode Color Overrides */
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background-color: #1E2A22;      /* Dark forest green */
-    --heading-color: #F0FFF4;         /* Mint cream (off-white) */
-    --text-color: #E2E8F0;            /* Light slate grey */
-    --link-color: #68D391;            /* Soft emerald green */
-    --visited-color: #38A169;         /* Darker forest green */
-    --main-color: #4FD1C5;            /* Bright teal accent */
-    --code-background-color: #16201A; /* Very dark jungle green */
-    --code-color: #E2E8F0;            /* Light slate grey */
-    --blockquote-color: #3A4F41;      /* Dark slate green */
+//@media (prefers-color-scheme: dark) {
+//  :root {
+//    --background-color: #1E2A22;      /* Dark forest green */
+//    --heading-color: #F0FFF4;         /* Mint cream (off-white) */
+//    --text-color: #E2E8F0;            /* Light slate grey */
+//    --link-color: #68D391;            /* Soft emerald green */
+//    --visited-color: #38A169;         /* Darker forest green */
+//    --main-color: #4FD1C5;            /* Bright teal accent */
+//    --code-background-color: #16201A; /* Very dark jungle green */
+//    --code-color: #E2E8F0;            /* Light slate grey */
+//    --blockquote-color: #3A4F41;      /* Dark slate green */
+//
+//    /* Dark mode glow effects */
+//    --glow-color-light: rgba(104, 211, 145, 0.3);
+//    --glow-color-medium: rgba(104, 211, 145, 0.5);
+//  }
+//}
 
-    /* Dark mode glow effects */
-    --glow-color-light: rgba(104, 211, 145, 0.3);
-    --glow-color-medium: rgba(104, 211, 145, 0.5);
-  }
+@media (prefers-color-scheme: dark) {
+    :root {
+        /* Base Colors - Focused on Readability and Comfort */
+        --background-color: #1B1B1D; /* Dark Charcoal/Slate: A non-pure black that's easier on the eyes. */
+        --text-color: #E8E8E8; /* Off-White/Light Grey: High contrast against the background, reducing glare. */
+        --heading-color: #FFFFFF; /* Pure White: Strongest contrast to give headings visual priority. */
+
+        /* Accent Colors - High Contrast and Accessible */
+        --link-color: #80CBAA; /* Bright Mint/Emerald: Excellent contrast for links and interactive elements. */
+        --visited-color: #A5D6A7; /* Muted Light Green: A clear but subtle difference for visited links. */
+        --main-color: #A5D6A7; /* Muted Light Green: For accents, borders, or secondary elements. */
+
+        /* Code and Blockquote Elements */
+        --code-background-color: #2A2A2D; /* Slightly lighter than background to clearly separate code blocks. */
+        --code-color: #E8E8E8; /* Main text color for code content. */
+        --blockquote-color: #B0BEC5; /* Light Slate Grey: Muted text to visually distinguish blockquotes. */
+
+        /* Dark mode glow effects (based on the new link color) */
+        --glow-color-light: rgba(128, 199, 170, 0.2);
+        --glow-color-medium: rgba(128, 199, 170, 0.4);
+    }
 }
 
 /* =============================================================================
