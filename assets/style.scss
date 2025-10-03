@@ -108,17 +108,18 @@
    ============================================================================= */
 
 body {
-    font-family: var(--font-secondary);
-    font-size: var(--font-scale);
-    margin: auto;
-    padding: var(--spacing-md);
-    max-width: var(--width);
-    text-align: left;
-    background-color: var(--background-color);
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    line-height: 1.5;
-    color: var(--text-color);
+    background-color: red !important;
+    //font-family: var(--font-secondary);
+    //font-size: var(--font-scale);
+    //margin: auto;
+    //padding: var(--spacing-md);
+    //max-width: var(--width);
+    //text-align: left;
+    //background-color: var(--background-color);
+    //word-wrap: break-word;
+    //overflow-wrap: break-word;
+    //line-height: 1.5;
+    //color: var(--text-color);
 }
 
 /* =============================================================================
