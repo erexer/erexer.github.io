@@ -66,23 +66,23 @@
 
 /* Dark Mode Color Overrides */
 
-/*@media (prefers-color-scheme: dark) {*/
-/*  :root {*/
-/*    --background-color: #1E2A22;      !* Dark forest green *!*/
-/*    --heading-color: #F0FFF4;         !* Mint cream (off-white) *!*/
-/*    --text-color: #E2E8F0;            !* Light slate grey *!*/
-/*    --link-color: #68D391;            !* Soft emerald green *!*/
-/*    --visited-color: #38A169;         !* Darker forest green *!*/
-/*    --main-color: #4FD1C5;            !* Bright teal accent *!*/
-/*    --code-background-color: #16201A; !* Very dark jungle green *!*/
-/*    --code-color: #E2E8F0;            !* Light slate grey *!*/
-/*    --blockquote-color: #3A4F41;      !* Dark slate green *!*/
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background-color: #1E2A22;      /* Dark forest green */
+    --heading-color: #F0FFF4;         /* Mint cream (off-white) */
+    --text-color: #E2E8F0;            /* Light slate grey */
+    --link-color: #68D391;            /* Soft emerald green */
+    --visited-color: #38A169;         /* Darker forest green */
+    --main-color: #4FD1C5;            /* Bright teal accent */
+    --code-background-color: #16201A; /* Very dark jungle green */
+    --code-color: #E2E8F0;            /* Light slate grey */
+    --blockquote-color: #3A4F41;      /* Dark slate green */
 
-/*    !* Dark mode glow effects *!*/
-/*    --glow-color-light: rgba(104, 211, 145, 0.3);*/
-/*    --glow-color-medium: rgba(104, 211, 145, 0.5);*/
-/*  }*/
-/*}*/
+    /* Dark mode glow effects */
+    --glow-color-light: rgba(104, 211, 145, 0.3);
+    --glow-color-medium: rgba(104, 211, 145, 0.5);
+  }
+}
 
 
 @media (prefers-color-scheme: dark) {
