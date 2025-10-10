@@ -43,6 +43,15 @@ timezone: America/Los_Angeles
 exclude:
 - README.md
 - LICENSE.md
+- .sass-cache/
+- .jekyll-cache/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/
 
 ### Minima options
 # Minima date format
