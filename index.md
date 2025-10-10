@@ -7,3 +7,4 @@ Hi, I'm em. I intend to write blog posts, keep track of personal projects, and m
 
 Site TODOs
 - [ ] Add blog post tags
+
