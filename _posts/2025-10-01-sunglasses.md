@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Low Nose Bridge (flat face) Sunglasses"
-date:   2025-10-10 16:17:00 -0700
+title: "Low Nose Bridge (flat face) Sunglasses"
+date: 2025-10-10 16:17:00 -0700
 ---
 
 I am half asian. Finding sunglasses is HELL. They either slide/fall, hit my eyeballs, fog up instantly, or give me a raging headache reminiscent of trying to find sunglasses. Here I will document which sunglasses I've tried, flame some of them, and applaud one of them. I judge sunglasses in three dimensions: **performance**, **dorkiness**, and **price**. Dorkiness can be both a positive and a negative, so I will specify below
