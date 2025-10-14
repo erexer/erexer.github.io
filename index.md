@@ -5,6 +5,8 @@ title: Home
 
 Hi, I'm em. I intend to write blog posts, keep track of personal projects, and maybe showcase some photos. This site will be ever-evolving!
 
+Give me [anonymous feedback](https://www.admonymous.co/erexer)!
+
 [//]: # (Site TODOs)
 [//]: # (- [ ] Add blog post tags)
 
