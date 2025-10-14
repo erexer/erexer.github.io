@@ -5,6 +5,6 @@ title: Home
 
 Hi, I'm em. I intend to write blog posts, keep track of personal projects, and maybe showcase some photos. This site will be ever-evolving!
 
-Site TODOs
-- Add blog post tags
+[//]: # (Site TODOs)
+[//]: # (- [ ] Add blog post tags)
 
