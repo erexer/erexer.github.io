@@ -4,8 +4,6 @@ title: "Low Nose Bridge (flat face) Sunglasses"
 date: 2025-10-10 09:17:00 -0700
 ---
 
-<small>_Updated 2025.10.14_</small>
-
 I am half asian. Finding sunglasses is HELL. They either slide/fall, hit my eyeballs, fog up instantly, or give me a raging headache reminiscent of trying to find sunglasses. Here I will document which sunglasses I've tried, flame some of them, and applaud one of them. I judge sunglasses in three dimensions: **performance**, **dorkiness**, and **price**. Dorkiness can be both a positive and a negative, so I will specify below. This is entirely subjective; everyone's face is different.
 
 | Item                                          | Brand  | Price | Score (n/10) | 
@@ -63,3 +61,5 @@ I love the idea of no arms, but the fit on these are horrible. Without the extra
 * [POC Elicit Bike Sunglasses
  $300](https://poc.com/en-us/product/elicit-uranium-black-clarity-trail-partly-sunny-silver-cat-2)
 * [Tifosi Moab Lite $80](https://tifosioptics.com/products/moab-lite?variant=43241968763019)
+
+<small>_Updated 2025.10.14_</small>
