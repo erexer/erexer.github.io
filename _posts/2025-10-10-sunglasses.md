@@ -63,5 +63,3 @@ I love the idea of no arms, but the fit on these are horrible. Without the extra
 * [POC Elicit Bike Sunglasses
  $300](https://poc.com/en-us/product/elicit-uranium-black-clarity-trail-partly-sunny-silver-cat-2)
 * [Tifosi Moab Lite $80](https://tifosioptics.com/products/moab-lite?variant=43241968763019)
-
-_Originally written 2025.10.10_
