@@ -10,4 +10,5 @@ Give me [anonymous feedback](https://www.admonymous.co/erexer)!
 [//]: # (Site TODOs)
 [//]: # (- [ ] Add blog post tags)
 [//]: # (- [ ] Add link to friends sites (leon, mapnr)
+[//]: # (link to linkedIn)
 

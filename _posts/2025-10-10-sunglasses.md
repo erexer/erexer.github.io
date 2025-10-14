@@ -57,9 +57,9 @@ I love the idea of no arms, but the fit on these are horrible. Without the extra
 #### Sunglasses I want to try
 * [Rudy Project Spinshield Air
 ](https://www.rudyprojectna.com/collections/all-rudy-project-sunglasses/products/spinshield-air?variant=42271361630408) $210
-* [Victory Chimp A.P.E. Optics Vega Evo Cycling Sunglasses $54](https://www.victorychimp.cc/en-us/products/a-p-e-optics-vega-evo-cycling-sunglasses-matte-pistachio-green-w-yellow-green-lens-copy)
-* [POC Elicit Bike Sunglasses
- $300](https://poc.com/en-us/product/elicit-uranium-black-clarity-trail-partly-sunny-silver-cat-2)
-* [Tifosi Moab Lite $80](https://tifosioptics.com/products/moab-lite?variant=43241968763019)
+* [Victory Chimp A.P.E. Optics Vega Evo Cycling Sunglasses](https://www.victorychimp.cc/en-us/products/a-p-e-optics-vega-evo-cycling-sunglasses-matte-pistachio-green-w-yellow-green-lens-copy) $54
+* [POC Elicit Bike Sunglasses](https://poc.com/en-us/product/elicit-uranium-black-clarity-trail-partly-sunny-silver-cat-2) $300
+* [Tifosi Moab Lite](https://tifosioptics.com/products/moab-lite?variant=43241968763019) $80
+* [Goodr Astro G](https://goodr.com/products/guacamole-face-mask) $35
 
 <small>_Updated 2025.10.14_</small>
