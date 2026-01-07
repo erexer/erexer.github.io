@@ -1,9 +1,11 @@
 ---
 layout: home
-title: Home
+title: Hi, I'm em.
 ---
 
-Hi, I'm em. I intend to write blog posts, keep track of personal projects, and maybe showcase some photos. This site will be ever-evolving!
+I intend to write blog posts, keep track of projects, and maybe showcase some photos. This site will be ever-evolving!
+
+### Check out my [projects](projects.md)!
 
 Give me [anonymous feedback](https://www.admonymous.co/erexer)!
 
